@@ -1,1 +1,12 @@
+Daimler dataset - http://www.gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/Daimler_Mono_Ped__Detection_Be/daimler_mono_ped__detection_be.html
 
+1. readdb.py
+    Parses groundtruth for the test data
+    Added trained SVM model and made output green when prediction are matched while red otherwise. Luckily it's mostly green.
+2. readSequence.py
+    Part of readdb used to parse data in orderly fashion.
+3. trainSVM.py
+    Extracting HOG features from training images and training SVM.
+    Saving trained svm model.
+4. groundtruth.py
+    simply running programs 
