@@ -1,1 +1,12 @@
+trainSVM.py -> extracts HOG features from image and trains SVM model for identifying if it's pedestrian or not
+
+vidtoimg.py -> convert a video to frame by frame images and saves it in order int one folder
+
+videoprocessing.py -> uses folder made using vidtoimd.py and processes individual frames and saves in a output folder in order
+
+SVM+CNN.py -> processes one image using SVm as well as CNN to reduce false positives by giving corrosponding positives
+
+rectangle.py -> works as low level nonmax supression by comparing overlapping of reactangles and gives one rectangle from many overlapping reactangles
+
+imagestovid -> takes all output images and converts to output video in mp4 format 
 
