@@ -7,3 +7,5 @@ model2 -> same as model1 but modified (all chages can be obsereved between line 
 model3, model4-> same as model 2
 
 slider -> tests saved model on a image
+
+reference - https://www.datacamp.com/community/tutorials/convolutional-neural-networks-python
