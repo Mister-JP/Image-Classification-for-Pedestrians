@@ -1,1 +1,5 @@
+load.ipynb -> main program to load model and predict and show output
 
+yolo.ipynb -> makes model and adds trained wieghts to the model
+
+link to important files before executing -> https://drive.google.com/drive/folders/1vb_3Dp8gU0BNsVWzubhSQMH13zA5lE_J?usp=sharing
