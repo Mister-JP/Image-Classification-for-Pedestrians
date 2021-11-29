@@ -1,1 +1,9 @@
+Start.py -> prepares data for training by reshaping in required format and splitting in two parts namely training and testing.
 
+model -> provides directory of images to strat.py -> makes model using keras and tensorflow -> training done using data obtained from start.py -> saves trained model for further used
+
+model2 -> same as model1 but modified (all chages can be obsereved between line 28 and 41)
+
+model3, model4-> same as model 2
+
+slider -> tests saved model on a image
